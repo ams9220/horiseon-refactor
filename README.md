@@ -9,14 +9,14 @@ Link to deployed site (https://ams9220.github.io/horiseon-refactor/index.html).
 
 ## Installation
 
-No installation is needed, once the user loads the deployed site URL they should be able to access the web application and access all functionality features. 
+No installation is needed, once the user loads the deployed site URL they should be able to access the web application and all functionality features. 
 
 
 ## Usage
 
 The purpose of this project was to create a codebase that follows acessibility standards. The deployed application should look like the following : 
 
-(assets/images/screenshot.png)
+assets/images/screenshot.png
 
 
 ## Credits & License
