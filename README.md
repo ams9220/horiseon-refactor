@@ -16,7 +16,7 @@ No installation is needed, once the user loads the deployed site URL they should
 
 ## Usage
 
-The purpose of this project was to create a codebase that follows acessibility standards. The deployed application should look like the following : 
+The purpose of this project was to create a codebase that follows accessibility standards. The deployed application should look like the following : 
 
 ![Horiseon Website](assets/images/screenshot.png)
 
