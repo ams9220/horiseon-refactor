@@ -2,7 +2,9 @@
 
 ## Description
 
-This website's source code was refactored as part of a Challenge focused on web accessibility and on-the-job tickets. Both the original HTML and CSS code required various edits not limited to consolidating the source code selectors and properties, organizing the semantic structure, and including comments. Accessible alt attributes were added to the body images and all navigation links were formatted to function correctly. Best practices were followed for the class/id naming conventions as well as code structure and the repo commit messages.
+This website's source code was refactored as part of a Challenge focused on web accessibility and on-the-job tickets. Both the original HTML and CSS code required various edits not limited to consolidating the source code selectors and properties, organizing the semantic structure, and including comments. Accessible alt attributes were added to the body images and all navigation links were formatted to function correctly. 
+
+The repository follows best practices for file structure, class/id naming conventions, code structure, comments, and commit messages.
 
 Link to deployed site (https://ams9220.github.io/horiseon-refactor/index.html).
 
